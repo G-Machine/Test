@@ -1,5 +1,9 @@
 1. Kita Eklendi :
+<<<<<<< HEAD
 	master'Dan
+=======
+	testbranchdan
+>>>>>>> istiklalmarsi2.kita
 Korkma, sönmez bu safaklarda yüzen al sancak;
 Sönmeden yurdumun üstünde tüten en son ocak.
 O benim milletimin yildizidir, parlayacak;
